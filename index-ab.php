@@ -21,6 +21,7 @@
     </section>
     <!--rudy gamay oten-->
     <p>rudy gamay oten</p>
+    <p>asdasdasdas</p>
     <footer style="margin-top: 50px;">
         <?php
             include ('log/footer.php');
